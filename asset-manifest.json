@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.81c5823a.css",
-    "main.js": "/static/js/main.9feef482.js",
-    "index.html": "/index.html",
-    "main.81c5823a.css.map": "/static/css/main.81c5823a.css.map",
-    "main.9feef482.js.map": "/static/js/main.9feef482.js.map"
+    "main.css": "/Crypto_Caravan/static/css/main.81c5823a.css",
+    "main.js": "/Crypto_Caravan/static/js/main.09164008.js",
+    "index.html": "/Crypto_Caravan/index.html",
+    "main.81c5823a.css.map": "/Crypto_Caravan/static/css/main.81c5823a.css.map",
+    "main.09164008.js.map": "/Crypto_Caravan/static/js/main.09164008.js.map"
   },
   "entrypoints": [
     "static/css/main.81c5823a.css",
-    "static/js/main.9feef482.js"
+    "static/js/main.09164008.js"
   ]
 }
